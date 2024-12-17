@@ -1,6 +1,6 @@
 # Mohamed Abidi Portfolio
 
-Welcome to the GitHub repository for Mohamed Abidi's personal portfolio. This project was professionally developed by **Karim Feki** (@HamaBTW), showcasing my expertise in delivering clean, responsive, and visually appealing web solutions tailored to client needs.
+Welcome to the GitHub repository for Mohamed Abidi's personal portfolio. This project was professionally developed by **Karim Feki**, showcasing my expertise in delivering clean, responsive, and visually appealing web solutions tailored to client needs.
 
 ---
 
@@ -52,7 +52,7 @@ The **Mohamed Abidi Portfolio** is a modern and elegant platform designed to hig
 ---
 
 ## 💬 About the Developer
-Hi, I’m Karim Feki (@HamaBTW), a dedicated and skilled developer with a passion for crafting professional web solutions that stand out. My work focuses on delivering high-quality results tailored to my clients' needs, ensuring their satisfaction and the success of their projects.
+Hi, I’m Karim Feki, a dedicated and skilled developer with a passion for crafting professional web solutions that stand out. My work focuses on delivering high-quality results tailored to my clients' needs, ensuring their satisfaction and the success of their projects.
 
 If you’re looking for a developer who can bring your vision to life, feel free to get in touch. I’d love to collaborate with you on your next project.
 
@@ -61,6 +61,6 @@ If you’re looking for a developer who can bring your vision to life, feel free
 ## 🔗 Connect with Me
 - **Email**: [feki.karim@outlook.com](mailto:feki.karim@outlook.com)
 - **LinkedIn**: [Karim Feki](https://www.linkedin.com/in/karimfeki)
-- **GitHub**: [Mohamed Abidi](https://www.github.com/HamaBTW)
+- **GitHub**: [Karim Feki](https://www.github.com/fekikarim)
 
 Thank you for exploring this project. I look forward to working with you to create something exceptional!

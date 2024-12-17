@@ -47,6 +47,7 @@ The **Mohamed Abidi Portfolio** is a modern and elegant platform designed to hig
 ├── js/               # JavaScript files for interactive features
 ├── images/                # All visual assets (projects, profile, etc.)
 ├── README.md              # You're here!
+```
 
 ---
 

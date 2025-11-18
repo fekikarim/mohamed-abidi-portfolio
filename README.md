@@ -59,7 +59,7 @@ If you’re looking for a developer who can bring your vision to life, feel free
 ---
 
 ## 🔗 Connect with Me
-- **Email**: [feki.karim@outlook.com](mailto:feki.karim@outlook.com)
+- **Email**: [feki.karim28@gmail.com](mailto:feki.karim28@gmail.com)
 - **LinkedIn**: [Karim Feki](https://www.linkedin.com/in/karimfeki)
 - **GitHub**: [Karim Feki](https://www.github.com/fekikarim)
 
